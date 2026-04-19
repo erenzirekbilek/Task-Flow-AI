@@ -9,3 +9,9 @@ export const APP_CONFIG = {
   METRO_KEYWORDS: ['metro', 'station', 'subway', 'underground'],
   COMPANY_KEYWORDS: ['company', 'firm', 'inc', 'ltd', 'llc', 'corp', 'group', 'tech', 'solutions'],
 };
+
+export const APP_INFO = {
+  name: 'Interview Tracker',
+  version: '1.0.0',
+  description: 'Track job interview companies with smart duplicate detection',
+};
