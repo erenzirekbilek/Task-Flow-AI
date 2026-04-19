@@ -7,3 +7,4 @@ export * from './logger';
 export * from './types';
 export * from './errors';
 export * from './result';
+export * from './analytics';
